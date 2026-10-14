@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Memory placeholder">
+  <defs>
+    <linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#431523"/>
+      <stop offset="50%" stop-color="#6B1E35"/>
+      <stop offset="100%" stop-color="#F0D9DE"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g)"/>
+  <circle cx="400" cy="390" r="150" fill="#FFF8F0" opacity="0.12"/>
+  <path d="M240 620C300 520 340 490 400 490C465 490 510 515 570 620" fill="none" stroke="#D6B46A" stroke-width="12" stroke-linecap="round"/>
+  <text x="400" y="770" font-size="38" fill="#FFF8F0" text-anchor="middle" font-family="Georgia, serif">Our favourite memory</text>
+</svg>
